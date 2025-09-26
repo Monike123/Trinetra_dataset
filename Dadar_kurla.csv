@@ -1,0 +1,25 @@
+departure,destination,train name,departure time,destination time,F/S,Route,Dadar_departure_time,Matunga_arrival_time,Matunga_departure_time,sion_arrival_time,sion_departure_time,Kurla_arrival_time,dadar_platform_no.,matunga_platform_no.,sion_platform_no.,kurla_platform_no.
+Dadar,Kurla,96301,00:20:00,00:31:00,S,Dadar-Matunga-Sion-Kurla,00:20:00,00:22:00,00:22:34,00:26:34,00:27:11,00:30:11,8,1,1,1
+Dadar,Kurla,96401,00:32:00,00:43:00,S,Dadar-Matunga-Sion-Kurla,00:32:00,00:35:00,00:35:32,00:36:11,00:36:41,00:39:41,8,1,1,1
+Dadar,Kurla,97601,00:36:00,00:47:00,S,Dadar-Matunga-Sion-Kurla,00:36:00,00:39:00,00:39:32,00:43:32,00:44:04,00:47:04,8,1,1,1
+Dadar,Kurla,97301,00:43:00,00:54:00,S,Dadar-Matunga-Sion-Kurla,00:43:00,00:45:00,00:45:39,00:49:39,00:50:10,00:53:10,8,1,1,1
+Dadar,Kurla,97603,00:51:00,01:01:00,F,Dadar-Kurla,00:51:00,-,-,-,-,01:01:00,11,3,3,5
+Dadar,Kurla,96101,00:55:00,01:06:00,S,Dadar-Matunga-Sion-Kurla,00:55:00,00:57:00,00:57:33,01:00:33,01:01:07,01:04:07,8,1,1,1
+Dadar,Kurla,96403,04:23:00,04:34:00,S,Dadar-Matunga-Sion-Kurla,04:23:00,04:26:00,04:26:39,04:29:39,04:30:09,04:33:09,8,1,1,1
+Dadar,Kurla,96003,04:37:00,04:48:00,S,Dadar-Matunga-Sion-Kurla,04:37:00,04:39:00,04:39:35,04:43:35,04:44:06,04:47:06,8,1,1,1
+Dadar,Kurla,96107,05:02:00,05:11:00,F,Dadar-Kurla,05:02:00,-,-,-,-,05:11:00,11,3,3,5
+Dadar,Kurla,96405,05:18:00,05:29:00,S,Dadar-Matunga-Sion-Kurla,05:18:00,05:20:00,05:20:31,05:24:31,05:25:06,05:28:06,8,1,1,1
+Dadar,Kurla,96503,05:32:00,05:43:00,S,Dadar-Matunga-Sion-Kurla,05:32:00,05:34:00,05:34:32,05:38:32,05:39:10,05:42:10,8,1,1,1
+Dadar,Kurla,96109,05:36:00,05:47:00,S,Dadar-Matunga-Sion-Kurla,05:36:00,05:39:00,05:39:38,05:43:38,05:44:11,05:47:11,8,1,1,1
+Dadar,Kurla,96305,05:48:00,05:59:00,S,Dadar-Matunga-Sion-Kurla,05:48:00,05:51:00,05:51:40,05:54:40,05:55:14,05:59:14,8,1,1,1
+Dadar,Kurla,97001,05:52:00,06:03:00,S,Dadar-Matunga-Sion-Kurla,05:52:00,05:55:00,05:55:30,05:58:30,05:59:05,06:02:05,8,1,1,1
+Dadar,Kurla,96307,06:00:00,06:11:00,S,Dadar-Matunga-Sion-Kurla,06:00:00,06:02:00,06:02:36,06:05:36,06:06:13,06:09:13,8,1,1,1
+Dadar,Kurla,96607,06:10:00,06:21:00,S,Dadar-Matunga-Sion-Kurla,06:10:00,06:13:00,06:13:34,06:16:34,06:17:13,06:20:13,8,1,1,1
+Dadar,Kurla,97005,06:14:00,06:25:00,S,Dadar-Matunga-Sion-Kurla,06:14:00,06:16:00,06:16:38,06:20:38,06:21:14,06:24:14,8,1,1,1
+Dadar,Kurla,95701,06:20:00,06:28:00,F,Dadar-Kurla,06:20:00,-,-,-,-,06:28:00,11,3,3,5
+Dadar,Kurla,96505,06:22:00,06:33:00,S,Dadar-Matunga-Sion-Kurla,06:22:00,06:25:00,06:25:35,06:28:35,06:29:15,06:33:15,8,1,1,1
+Dadar,Kurla,96309,06:30:00,06:41:00,S,Dadar-Matunga-Sion-Kurla,06:30:00,06:33:00,06:33:30,06:37:30,06:38:09,06:42:09,8,1,1,1
+Dadar,Kurla,95101,06:30:00,06:37:00,F,Dadar-Kurla,06:30:00,-,-,-,-,06:37:00,11,3,3,5
+Dadar,Kurla,97201,06:35:00,06:46:00,S,Dadar-Matunga-Sion-Kurla,06:35:00,06:38:00,06:38:32,06:42:32,06:43:06,06:47:06,8,1,1,1
+Dadar,Kurla,97009,06:39:00,06:50:00,S,Dadar-Matunga-Sion-Kurla,06:39:00,06:42:00,06:42:34,06:46:34,06:47:14,06:50:14,8,1,1,1
+Dadar,Kurla,95201,06:41:00,06:48:00,F,Dadar-Kurla,06:41:00,-,-,-,-,06:48:00,11,3,3,5
